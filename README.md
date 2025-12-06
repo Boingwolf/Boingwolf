@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Boingwolf
-- 👀 I’m interested in cybersecurity and guitar
-- 🌱 I’m currently learning C 
-- 😄 Pronouns: He/Him
+- 👀 I’m interested in cybersecurity and games
 
 <!---
 Boingwolf/Boingwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
